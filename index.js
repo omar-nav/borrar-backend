@@ -16,7 +16,7 @@ app.get('/', (req, res)=>{
 app.get('/pokemons', (req, res)=>{
     // axios.get().the().catch;
 
-    let pokeIds = [1,2,3];
+    let pokeIds = [1,2,3,56,89,90];
 
     console.log('entre a peticion');
     
